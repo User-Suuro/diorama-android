@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_music"
+        android:icon="@drawable/rounded_album_24"
+        android:title="Music" />
+
+    <item
+        android:id="@+id/nav_logs"
+        android:icon="@drawable/sharp_acute_24"
+        android:title="Logs" />
+
+</menu>
